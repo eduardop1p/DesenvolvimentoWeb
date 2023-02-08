@@ -131,9 +131,9 @@ button{
 
 
 @media (max-width: 550px){
-    /* body{
+    body{
         height: 105vh;
-    } */
+    }
     .container{
         width: calc(100% - 5rem);
     }

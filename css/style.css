@@ -149,7 +149,7 @@ button{
         margin-top: 5px;
     }
     .details-price > :not(:last-child){
-        margin-bottom: 1.5rem;
+        margin-bottom: 1rem;
     }
     .details-price{
         padding: 1rem;
